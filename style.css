@@ -46,7 +46,7 @@ main {
     background-image: url(./IMG/COVER.png);
     width: 250px;
     height: 250px;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 20px;
